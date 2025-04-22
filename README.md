@@ -1,6 +1,6 @@
 # 📸 Clone da Tela de Login do Instagram
 
-Projeto front-end que replica a tela de login do Instagram com um layout responsivo, moderno e fiel ao visual original da plataforma.
+Projeto front-end que replica a tela de login do Instagram com um layout responsivo.
 
 ---
 
